@@ -68,5 +68,5 @@ I'm working on open-sourcing more internal projects — stay tuned!
 ## 📫 Get in Touch
 
 - 🌐 [www.branchrobotics.tech](https://www.branchrobotics.tech)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arturrh)  
+- 💼 [LinkedIn profile](https://www.linkedin.com/in/arturrh)  
 - ✉️ Email: artur@branchrobotics.tech  
